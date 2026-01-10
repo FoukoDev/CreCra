@@ -11,7 +11,7 @@ When in doubt, please do send us a report.
 
 ## How to submit a report
 
-Security issues can be reported by sending an [email to us][contact].
+Security issues can be reported by sending an mail@fouko.xyz
 
 The team will acknowledge your email within 48 hours. You will receive a more detailed response within 96 hours.
 
@@ -38,5 +38,3 @@ Please submit a report to us before engaging in conduct that may be inconsistent
 - Please provide detailed reports with reproducible steps and a clearly defined impact
 - Submit one vulnerability per report
 - Social engineering (such as phishing, vishing, smishing) is prohibited
-
-[contact]: mailto:mail@fouko.xyz
