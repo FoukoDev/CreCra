@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '22a9af9896b7a8d0ed0caef84ca2d4d6f5875ffa'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = 'd4f7a8053dd5e2889ccd4015ed1d83b80bbcd0e46c6fe44f2a61251238a4c523ef9aee9136dd23e41adde9d428e8d43fbcedb59af3be2a5e9f17f3fa414da52d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/uOVMgoil/versions/H9bKyiWt/theurgy-1.20.1-1.25.0.jar'
 
-[update.curseforge]
-file-id = 7065730
-project-id = 430636
+[update.modrinth]
+mod-id = 'uOVMgoil'
+version = 'H9bKyiWt'

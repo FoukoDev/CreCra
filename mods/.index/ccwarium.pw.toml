@@ -1,0 +1,16 @@
+filename = 'ccwarium-1.0.2.jar'
+name = 'CC:Warium'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '0f3587c9d5838041a526a0021fd1c5073039a61bc32977be709f339f0be0e27794fb6ae66cfb3d8cbb2d46cfe6f76cbf9ae5e4f0ea4a5da6e37ef326096e7b8a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/6mdEcMud/versions/KELc6GPW/ccwarium-1.0.2.jar'
+
+[update.modrinth]
+mod-id = '6mdEcMud'
+version = 'KELc6GPW'

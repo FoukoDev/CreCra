@@ -1,0 +1,16 @@
+filename = 'justpotionrings-forge-1.20.[0-1]-v1.4.jar'
+name = 'Just Potion Rings'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '38fed5c44d26bd026f936f7af8cbd53dc8dc0e7c05fd6121a0e2373902af25e241a5f576d82bcf0e8fd7c30037798c64bafaf89aca63d32de7bae15ee0cdee04'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/6C3LNL9Q/versions/DHrvCclE/justpotionrings-forge-1.20.%5B0-1%5D-v1.4.jar'
+
+[update.modrinth]
+mod-id = '6C3LNL9Q'
+version = 'DHrvCclE'

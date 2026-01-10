@@ -1,0 +1,70 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "Start": {
+      "title": "These are the kinds of tasks th",
+      "icon": {
+        "item": {
+          "id": "minecraft:cherry_sapling",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "type": "heracles:check"
+    }
+  },
+  "rewards": {
+    "Stick": {
+      "title": "And here is your gift :3",
+      "icon": {
+        "item": {
+          "id": "minecraft:poppy",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "item": {
+        "id": "minecraft:poppy",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "Welcome to the /4/CreCra/4/ modpack, thank you for installing it!",
+      "",
+      "In this chapter, you will learn how to use the basic communication features, and for now, take a look at the other /e/buttons/e/ in this quest."
+    ],
+    "groups": {
+      "Main": {
+        "position": [
+          -328,
+          -254
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:oxeye_daisy",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/hearts.png",
+    "title": {
+      "translate": "Welcome!"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

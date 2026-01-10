@@ -1,0 +1,7 @@
+
+["Client Side Configs for CC Cosmetics"]
+	#Paths for resource locations (namespace:resource)
+	resources = []
+	#Labels for the overlays (has to be same size as the paths)
+	label = []
+

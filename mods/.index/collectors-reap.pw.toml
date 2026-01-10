@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'cf0bd2410fc4696522620eae0e02819a235cb1da'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = 'b1468d6448295c0a4958a8492f4eee369e7b86bfcbf3a0ef93afe0bf85ec83f2a61162b4d0df3b92e04f74fa01abbc1f0c4f7a5f4e111767951a98bf511681b6'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/AXXLr36C/versions/Os3WKKkD/collectorsreap-1.20.1-1.5.4.jar'
 
-[update.curseforge]
-file-id = 7419969
-project-id = 807101
+[update.modrinth]
+mod-id = 'AXXLr36C'
+version = 'Os3WKKkD'

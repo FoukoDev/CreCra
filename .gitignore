@@ -128,7 +128,7 @@ hei_bookmarks.ini
 icon.png
 EffekseerNativeForJava.dll
 libEffekseerNativeForJava.so
-
+liboc2rnet.so   
 # Server data
 # .pakku/server-overrides/libraries
 # .pakku/server-overrides/config

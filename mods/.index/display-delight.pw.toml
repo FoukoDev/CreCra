@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '06d5a5fcdc70d0a1b90017f5695dc65da16c370f'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = '8617ea8e9120b2735b3f01b470bb039cd5af876db4d75c83a0caea731d72808da6bb2f264afae66b1a4822d2102838dcdd90cbb0a8ef7c5d5f5ab0ad57aab708'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/yXepZhp8/versions/2KUNRLcs/displaydelight-1.4.0.jar'
 
-[update.curseforge]
-file-id = 7176651
-project-id = 1144296
+[update.modrinth]
+mod-id = 'yXepZhp8'
+version = '2KUNRLcs'
