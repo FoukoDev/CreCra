@@ -1,0 +1,16 @@
+filename = 'ccshops-0.0.1.jar'
+name = 'CC Shops'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '5f23e84c4de43712db0573871e25881f1543b3df'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6221551
+project-id = 901020

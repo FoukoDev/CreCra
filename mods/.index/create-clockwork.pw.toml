@@ -1,0 +1,16 @@
+filename = 'clockwork-0.5.4.4.jar'
+name = 'VS: Clockwork'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '78af626c1aaf75688aa4791aed2f798e2ba67a44'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7434481
+project-id = 807792

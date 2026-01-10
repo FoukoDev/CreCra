@@ -1,0 +1,16 @@
+filename = 'valkyrienskies-120-2.4.6.jar'
+name = 'Valkyrien Skies (Forge/Fabric)'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '1e46bde9f7a0543e650f1acbd82f1bbefe4ae010'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7418457
+project-id = 258371

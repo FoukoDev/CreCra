@@ -1,0 +1,16 @@
+filename = 'crabbersdelight-1.20.1-1.2.3.jar'
+name = "Crabber's Delight"
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'a625f5b0e377597f7c884768ea8b9d0a81206831'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7084858
+project-id = 892827

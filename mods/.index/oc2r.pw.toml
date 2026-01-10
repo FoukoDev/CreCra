@@ -1,0 +1,16 @@
+filename = 'oc2r-1.20.1-forge-2.2.11-all.jar'
+name = 'OpenComputers 2: Reimagined'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '6af224119f20805502894fcc17ad007fd98ca78081e200ff000f1ceac7a78eafb1f1dd8956bfe73d999050c583289482e0fbcb801227522fda363b4adc33b80a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/F1gm4RsH/versions/9LQ6ePKn/oc2r-1.20.1-forge-2.2.11-all.jar'
+
+[update.modrinth]
+mod-id = 'F1gm4RsH'
+version = '9LQ6ePKn'
