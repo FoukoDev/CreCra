@@ -1,0 +1,14 @@
+{
+  "quests.tips.chapter.title": "Подсказки",
+
+  "quests.tips.welcome.title": "Добро пожаловать!",
+  "quests.tips.welcome.subtitle": "Это будет долгий путь.",
+  "quests.tips.welcome.desc": "Спасибо что установили сборку CreCra, следуйте квестам и открывайте для себя новый мир.",
+  "quests.tips.welcome.task": "Добро пожаловать!",
+
+  "quests.tips.teams.title": "Команды",
+  "quests.tips.teams.subtitle": "Играть с друзьями веселее!",
+  "quests.tips.teams.desc.line1": "Попасть в меню команд вы можете также через инвентарь, нажав кнопку сверху слева рядом с кнопкой квестов.",
+  "quests.tips.teams.desc.line2": "Нажмите кнопку Create a Party, чтобы создать свою первую команду.",
+  "quests.tips.teams.task": "Команды"
+}

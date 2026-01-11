@@ -1,0 +1,14 @@
+{
+  "quests.tips.chapter.title": "Tips",
+
+  "quests.tips.welcome.title": "Welcome!",
+  "quests.tips.welcome.subtitle": "This will be a long journey.",
+  "quests.tips.welcome.desc": "Thank you for installing the CreCra modpack. Follow the quests and discover a new world.",
+  "quests.tips.welcome.task": "Welcome!",
+
+  "quests.tips.teams.title": "Teams",
+  "quests.tips.teams.subtitle": "Playing with friends is more fun!",
+  "quests.tips.teams.desc.line1": "You can also open the teams menu from your inventory by clicking the button in the top-left corner next to the quests button.",
+  "quests.tips.teams.desc.line2": "Click the Create a Party button to create your first team.",
+  "quests.tips.teams.task": "Teams"
+}

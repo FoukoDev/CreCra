@@ -129,6 +129,9 @@ icon.png
 EffekseerNativeForJava.dll
 libEffekseerNativeForJava.so
 liboc2rnet.so   
+heracles_options.json
+mods
+wd_next.txt
 # Server data
 # .pakku/server-overrides/libraries
 # .pakku/server-overrides/config
